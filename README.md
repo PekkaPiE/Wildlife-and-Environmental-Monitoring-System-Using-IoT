@@ -16,7 +16,7 @@ library used have been discussed.
 
 
 
-                                                **COMPONENTS USED IN THIS PROJECT**
+                                    **COMPONENTS USED IN THIS PROJECT**
 
 (A) Raspberry Pi 3 B+
 
@@ -267,7 +267,7 @@ The humidity, temperature and GPS (Latitude & Longitude) data will be displayed 
 
 
 
-                                                        **The Final Project**
+                                           **The Final Project**
 
 ![ashu 2022-08-10 at 8 14 56 PM](https://user-images.githubusercontent.com/108731838/183932085-d2b16fce-7273-48ea-a7d3-0d683c7cf320.jpeg)
 
