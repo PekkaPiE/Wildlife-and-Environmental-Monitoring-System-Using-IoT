@@ -1,0 +1,14 @@
+Components Used:
+
+•   Laptop
+•   LCD Screen
+•   Power Supply
+•   Jumper Cables
+•   Raspberry Pi 3 B+ 
+•   Ublox NEO-6M GPS module
+•   PIR (Passive Infrared) Sensor
+•   Raspberry Pi night vision camera
+•   DHT11 temperature and humidity sensor
+
+
+
